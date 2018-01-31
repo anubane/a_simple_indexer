@@ -1,0 +1,4 @@
+1. Download any document collection from 20 Newsgroups dataset (http://qwone.com/~jason/20Newsgroups/).
+2. Do necessary pre-processing (cleaning, stemming/lemmatization, stopword removal)
+3. Create index to print posting list for any given term with its term-frequency and document-frequency.
+4. Submission Deadline: 31.1.2018 (AOE time).
