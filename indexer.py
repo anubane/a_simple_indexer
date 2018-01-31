@@ -91,7 +91,7 @@ def buildInvIndx(docTermDict):
 
 def displayInvIndx(invIndxDict):
     for term in sorted(invIndxDict.keys()):
-        print ("{} --> {})".format(term, invIndxDict[term]))
+        print ("{} --> {}".format(term, invIndxDict[term]))
 
 
 def writeInvIndxToFile(invIndxDict):
